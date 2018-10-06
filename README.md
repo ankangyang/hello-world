@@ -1,2 +1,2 @@
 # hello-world
-hell0 world is test GitHub project
+hello world is test GitHub project
